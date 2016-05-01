@@ -1,0 +1,43 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 1000M  (ID=0xdfa)
+    Vendor:   NVIDIA
+    VRAM:     1998 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.048 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Christopher\Documents\School\fall 2015\Senior Project\neighborhoodtroubles\neighborhoodtroubles_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 158c -> priority: 1 
+  Thread -> id: 106c -> priority: 1 
+IndexOutOfRangeException: Array index is out of range.
+  at HUD.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.834709 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 499.
+Total: 0.891011 ms (FindLiveObjects: 0.073706 ms CreateObjectMapping: 0.056912 ms MarkObjects: 0.744064 ms  DeleteObjects: 0.014927 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.194578 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 499.
+Total: 0.878882 ms (FindLiveObjects: 0.073706 ms CreateObjectMapping: 0.056446 ms MarkObjects: 0.733334 ms  DeleteObjects: 0.013994 ms)
+

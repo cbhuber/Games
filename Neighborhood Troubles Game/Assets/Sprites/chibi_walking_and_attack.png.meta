@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 622b65018c3cf734199cf66a03e3a50a
+timeCreated: 1449544473
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chibi_walking_and_attack0
+    21300002: chibi_walking_and_attack1
+    21300004: chibi_walking_and_attack2
+    21300006: chibi_walking_and_attack3
+    21300008: chibi_walking_and_attack4
+    21300010: chibi_walking_and_attack5
+    21300012: chibi_walking_and_attack6
+    21300014: chibi_walking_and_attack7
+    21300016: chibi_walking_and_attack8
+    21300018: chibi_walking_and_attack9
+    21300020: chibi_walking_and_attack10
+    21300022: chibi_walking_and_attack11
+    21300024: chibi_walking_and_attack12
+    21300026: chibi_walking_and_attack13
+    21300028: chibi_walking_and_attack14
+    21300030: chibi_walking_and_attack15
+    21300032: chibi_walking_and_attack16
+    21300034: chibi_walking_and_attack17
+    21300036: chibi_walking_and_attack18
+    21300038: chibi_walking_and_attack19
+    21300040: chibi_walking_and_attack20
+    21300042: chibi_walking_and_attack21
+    21300044: chibi_walking_and_attack22
+    21300046: chibi_walking_and_attack23
+    21300048: chibi_walking_and_attack24
+    21300050: chibi_walking_and_attack25
+    21300052: chibi_walking_and_attack26
+    21300054: chibi_walking_and_attack27
+    21300056: chibi_walking_and_attack28
+    21300058: chibi_walking_and_attack29
+    21300060: chibi_walking_and_attack30
+    21300062: chibi_walking_and_attack31
+    21300064: chibi_walking_andattack_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chibi_walking_and_attack0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1237
+        width: 394
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1235
+        width: 396
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1235
+        width: 396
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack3
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1235
+        width: 396
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack4
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1235
+        width: 396
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack5
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1241
+        width: 396
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack6
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1237
+        width: 394
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack7
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 1235
+        width: 394
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 396
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 839
+        width: 396
+        height: 332
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack10
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 837
+        width: 394
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack11
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 835
+        width: 396
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack12
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 834
+        width: 396
+        height: 332
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack13
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 835
+        width: 396
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack14
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 835
+        width: 396
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack15
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 837
+        width: 393
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 424
+        width: 396
+        height: 352
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 437
+        width: 394
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack18
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 438
+        width: 392
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack19
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 434
+        width: 396
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack20
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 432
+        width: 396
+        height: 336
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack21
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 443
+        width: 394
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack22
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 441
+        width: 396
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack23
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 435
+        width: 394
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 396
+        height: 358
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 24
+        width: 400
+        height: 352
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack26
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 23
+        width: 394
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack27
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 9
+        width: 396
+        height: 382
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack28
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2
+        width: 384
+        height: 396
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack29
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2
+        width: 358
+        height: 396
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack30
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 2
+        width: 342
+        height: 396
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_and_attack31
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2
+        width: 340
+        height: 396
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chibi_walking_andattack_32
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 808
+        width: 397
+        height: 378
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
